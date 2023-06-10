@@ -1,7 +1,3 @@
-# PythonApplication1
-Я створив програму на Python, яка дозволяє знайти всі можливі пари чисел у заданому списку, що додатково дорівнює 10.
-Функція find_pairs шукає всі можливі комбінації чисел у заданому списку та виводить на екран всі пари чисел, які разом дорівнюють 10.
-Крім того, програма може бути корисною для відлагодження програмного коду, якщо у вас є програма, що взаємодіє з числовими даними. 
-Ви можете використовувати цю програму для пошуку всіх можливих комбінацій чисел, що дорівнюють 10, і перевірити, чи правильно обробляється кожна з них у вашій програмі.
+# labbb_5
 
-Я сподіваюся, що ця програма буде корисною для мене і для інших користувачів, які потребують знайти всі можливі пари чисел, які разом дорівнюють певній сумі. Дякую за увагу
+In thiw simple program I used a module that converts a numerical type into an alphabetic one, for example, if I enter 2 in the output, I get a string of two, for this I use the num2words module, installing it with the pip install num2words command in the terminal, after which I created a file with the requirements for program execution and put this module there as well as the pip version 
